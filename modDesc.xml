@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="63">
+    <author>RossN Mods</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>JCB Teletruk</en>
+    </title>
+    <description>
+        <en><![CDATA[JCB Teletruk
+
+In 1997, JCB developed a unique forklift truck with a telescopic boom instead of a conventional vertical mast.
+The JCB Teletruk provides unrivalled forward visibility, forward reach and large lift capacity, dramatically improving safety, while saving time, space and money.
+
+Deisgned to work with skid steer attachments.
+
+Brand: JCB
+Price: £48000
+Gross Power: 62 HP
+
+Features:
+- Colour options
+- Level lift
+- Animated controls
+- Top door opens
+
+Changelog 1.0.0.1: 
+- Fixed indoor camera position and suspension
+- Fixed camera issue with head tracking]]></en>
+<de><![CDATA[JCB Teletruk
+
+1997 entwickelte JCB einen einzigartigen Gabelstapler mit Teleskopausleger anstelle eines herkömmlichen vertikalen Mastes.
+Der JCB Teletruk bietet unübertroffene Sicht nach vorne, Reichweite und große Hubkapazität, was die Sicherheit erheblich verbessert und gleichzeitig Zeit, Platz und Geld spart.
+
+Kann mit Kompaktlader-Anbaugeräten verwendet werden.
+
+Marke: JCB
+Preis: 48.000 €
+Leistung: 62 PS
+
+- Farbkonfigurationen
+- Niveaulift
+- Animierte Steuerelemente
+- Obere Tür kann geöffnet werden
+
+Changelog 1.0.0.1: 
+- Position und Aufhängung der Innenkamera korrigiert
+- Kameraproblem mit Head-Tracking behoben]]></de>
+<fr><![CDATA[JCB Teletruk
+
+En 1997, JCB a développé un chariot élévateur unique avec une flèche télescopique au lieu d'un mât vertical conventionnel.
+Le JCB Teletruk offre une visibilité vers l'avant inégalée, une portée vers l'avant et une grande capacité de levage, améliorant considérablement la sécurité, tout en économisant du temps, de l'espace et de l'argent.
+
+Conçu pour fonctionner avec des accessoires de chargeuse compacte.
+
+Marque: JCB
+Le prix: 48.000 €
+Puissance brute: 62 CV
+
+- Options de couleur
+- Ascenseur de niveau
+- Contrôles animés
+- La porte du haut s'ouvre
+
+Changelog 1.0.0.1: 
+- Position et suspension fixes de la caméra intérieure
+- Correction d'un problème de caméra avec le suivi de la tête]]></fr>
+</description>
+
+	<l10n>
+		<text name="configuration_mattBlack"><en>Matt Black</en><de>Mattschwarz</de><fr>Noir mat</fr></text>
+		<text name="configuration_mattGrey"><en>Matt Grey</en><de>Mattgrau</de><fr>Gris mat</fr></text>
+		<text name="configuration_chrome"><en>Chrome</en><de>Chrom</de><fr>Chrome</fr></text>		
+	</l10n>
+	
+    <iconFilename>teletruk_ICON.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <storeItems>
+        <storeItem xmlFilename="teletruk.xml"/>
+    </storeItems>
+</modDesc>
+
